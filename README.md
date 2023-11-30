@@ -1,0 +1,2 @@
+# mypictures
+save gongzhonghao pictures
